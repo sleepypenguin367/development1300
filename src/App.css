@@ -2,37 +2,112 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+@font-face { font-family: roboto-regular; 
+  src: url('../assets/Roboto/Roboto-Regular.ttf'); } 
+@font-face { font-family: roboto-bold; 
+  src: url('../assets/Roboto/Roboto-Bold.ttf'); } 
+@font-face { font-family: roboto-meidum; 
+  src: url('../assets/Roboto/Roboto-Medium.ttf'); } 
+@font-face { font-family: roboto-black; 
+  src: url('../assets/Roboto/Roboto-Black.ttf'); } 
+
+h4{
+  font-family: roboto-regular;
+}
+h5{
+  font-family: roboto-regular;
+}
+h6{
+  font-family: roboto-regular;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+
+
+
+.container {
+  display: grid;
+  grid-template-columns: 20% 60% 20%;
+  padding: 10px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.container_left {
+  display: inline;
 }
 
-.App-link {
-  color: #61dafb;
+.container_main {
+  display: grid;
+  grid-template-columns: 45% 45%;
+  padding: 20px;
+  grid-gap: 30px;
+  width: 100%;
+  height: auto;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.selection {
+  border-color: #60BFC1;
+  border-width: 3px;
+  border-style: solid;
+  margin: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 10px;
+  background-color: #BADFD7;
 }
+
+.cart_style {
+  border-color: #C17779;
+  border-width: 3px;
+  border-style: solid;
+  margin: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 10px;
+  background-color: #FDB7B9;
+}
+
+
+
+.App-h1 {
+  color:#b98f66;
+  font-size:70px;
+}
+.h1 {
+  color:#7ea2ad;
+  font-size:larger;
+  font-family: roboto-regular;
+}
+.h2 {
+  color:#6966b1;
+  font-size:small;
+  font-family: roboto-regular;
+}
+.h2-al {
+  color:#529372;
+  font-size:small;
+  font-family: roboto-regular;
+}
+.h3 {
+  color:#e4786c;
+  font-family: roboto-regular;
+}
+.h4 {
+  color:#035a18;
+  font-family: roboto-regular;
+  font-size: 40px;
+}
+.h5 {
+  color:#1166a8;
+  font-family: roboto-regular;
+  font-size: larger;
+}
+
+
+.h2-c {
+  color:#6966b1;
+  font-size:larger;
+}
+

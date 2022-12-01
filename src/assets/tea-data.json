@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Boba Grape Milk Green Tea",
+    "price": 7.95,
+    "caffeine": true,
+    "ingredients": ["grapefruit"],
+    "toppings": ["boba"],
+    "index": 1,
+    "rating": 3.5,
+    "image": "images/anika.png"
+  },
+  {
+    "name": "Strawberry Boba Milk Tea",
+    "price": 5.95,
+    "caffeine": true,
+    "ingredients": ["strawberry"],
+    "toppings": ["boba"],
+    "index": 2,
+    "rating": 4.0
+  },
+  {
+    "name": "Violet Milk",
+    "price": 6.45,
+    "caffeine": false,
+    "ingredients": ["grape", "strawberry"],
+    "toppings": ["jelly", "cheese foam"],
+    "index": 3,
+    "rating": 4.5
+  },
+  {
+    "name": "Grape Mango Slush",
+    "price": 5.75,
+    "caffeine": false,
+    "ingredients": ["grape", "mango"],
+    "toppings": ["boba", "jelly","cheese foam"],
+    "index": 4,
+    "rating": 4.5
+  },
+  {
+    "name": "Chocolate Strawberry Milk Green Tea",
+    "price": 4.75,
+    "caffeine": true,
+    "ingredients": ["chocolate", "strawberry"],
+    "toppings": ["jelly"],
+    "index": 5,
+    "rating": 3
+  },
+  {
+    "name": "Berry Lover",
+    "price": 4.25,
+    "caffeine": false,
+    "ingredients": ["strawberry", "blueberry"],
+    "toppings": ["cheese foam"],
+    "index": 6,
+    "rating": 4
+  },
+  {
+    "name": "Purple and Blue Slush",
+    "price": 6.95,
+    "caffeine": false,
+    "ingredients": ["grape", "blueberry"],
+    "toppings": ["cheese foam", "taro"],
+    "index": 7,
+    "rating": 2
+  },
+  {
+    "name": "Pineapple Green Tea",
+    "price": 5.25,
+    "caffeine": true,
+    "ingredients": ["pineapple"],
+    "toppings": ["jelly"],
+    "index": 8,
+    "rating": 3.5
+  },
+  {
+    "name": "Pineapple Strawberry Boba Tea",
+    "price": 7.75,
+    "caffeine": true,
+    "ingredients": ["pineapple", "strawberry"],
+    "toppings": ["boba"],
+    "index": 9,
+    "rating": 2.5
+  },
+  {
+    "name": "Mange Pineapple Green Tea",
+    "price": 8.25,
+    "caffeine": true,
+    "ingredients": ["mango", "pineapple"],
+    "toppings": ["taro", "cheese foam"],
+    "index": 10,
+    "rating": 3.5
+  },
+  {
+    "name": "Grape Yellow Boba Slush",
+    "price": 3.75,
+    "caffeine": false,
+    "ingredients": ["grape", "mango", "banana"],
+    "toppings": ["boba","cheese foam","jelly"],
+    "index": 11,
+    "rating": 4
+  },
+  {
+    "name": "Strawberry Mango Cloud Milk",
+    "price": 5.65,
+    "caffeine": false,
+    "ingredients": ["strawberry", "mango"],
+    "toppings": ["cheese foam"],
+    "index": 12,
+    "rating": 3
+  },
+  {
+    "name": "Chocolate Latte",
+    "price": 7.45,
+    "caffeine": true,
+    "ingredients": ["chocolate"],
+    "toppings": ["cheese foam"],
+    "index": 13,
+    "rating": 3.5
+  },
+  {
+    "name": "Chocolate Banana Milk Slush",
+    "price": 8.15,
+    "caffeine": false,
+    "ingredients": ["chocolate", "banana"],
+    "toppings": ["boba", "taro"],
+    "index": 14,
+    "rating": 5
+  },
+  {
+    "name": "Strawberry Banana Smoothie",
+    "price": 4.65,
+    "caffeine": false,
+    "ingredients": ["strawberry", "banana"],
+    "toppings": ["jelly", "taro"],
+    "index": 15,
+    "rating": 4.5
+  }
+]
